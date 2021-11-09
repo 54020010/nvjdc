@@ -35,13 +35,13 @@ mkdir nolanjdc && cd nolanjdc
 3下载config.json 配置文件 并且修改自己的配置 不能缺少
 
 ```
-wget -O Config.json  https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json
+（已失效）wget -O Config.json  https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json
 ```
 国内请使用
  ```
-wget -O Config.json   https://ghproxy.com/https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json（已失效）
+（已失效）wget -O Config.json   https://ghproxy.com/https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json
 ```
-能拉取到文件的
+能拉取有效文件的
  ```
 wget -O Config.json   https://ghproxy.com/https://raw.githubusercontent.com/54020010/nvjdc/main/Config.json
 ```
